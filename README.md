@@ -29,3 +29,5 @@ Academic Business Intelligence project focused on designing a data warehouse and
 
 ## Project Type
 Academic group project.
+![Power BI Dashboard](powerbi/Capture%20d%E2%80%99e%CC%81cran%202026-11-03%20a%CC%80%2020.23.57.png)
+
